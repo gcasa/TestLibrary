@@ -7,6 +7,7 @@
 
 #import <Foundation/Foundation.h>
 
+GS_EXPORT_CLASS
 @interface TestLibrary : NSObject
 
 @end
