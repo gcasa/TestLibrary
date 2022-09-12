@@ -10,4 +10,6 @@
 GS_EXPORT_CLASS
 @interface TestLibrary : NSObject
 
+- (void) testMethod;
+
 @end
