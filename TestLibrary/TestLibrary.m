@@ -9,4 +9,9 @@
 
 @implementation TestLibrary
 
+- (void) testMethod
+{
+    NSLog(@"Hello");
+}
+
 @end

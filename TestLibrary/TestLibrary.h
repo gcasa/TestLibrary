@@ -9,4 +9,6 @@
 
 @interface TestLibrary : NSObject
 
+- (void) testMethod;
+
 @end
